@@ -88,5 +88,6 @@ data-science-with-codanics/
 
 ## 💬 Contact Me
 
-- 📧 Email: `your-email@example.com`
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: `khatirohit124@gmail.com`
+- 💼 LinkedIn: [rohit jangid](www.linkedin.com/in/rohit-jangid-a185a7372)
+- 🐦 Twitter (X): [@rohit_janggid](https://x.com/rohit_janggid)
