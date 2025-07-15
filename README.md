@@ -88,6 +88,8 @@ data-science-with-codanics/
 
 ## 💬 Contact Me
 
-- 📧 Email: `khatirohit124@gmail.com`
-- 💼 LinkedIn: [rohit jangid](www.linkedin.com/in/rohit-jangid-a185a7372)
-- 🐦 Twitter (X): [@rohit_janggid](https://x.com/rohit_janggid)
+- ## 💬 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khatirohit124@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-jangid-a185a7372)  
+[![Twitter](https://img.shields.io/badge/X-%40rohit_janggid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rohit_janggid)
